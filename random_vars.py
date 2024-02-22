@@ -11,3 +11,7 @@ def weibull(shape = 1):
     return np.random.weibull(shape,None)
 def laplace_var(loc,scale = 1.0):
     return np.random.laplace(loc,scale,None)
+def rayleigh_var(scale = 1.0):
+    return np.random.rayleigh(scale,None)
+def beta_var(a,b):
+    return np.random.beta(a,b,None)
