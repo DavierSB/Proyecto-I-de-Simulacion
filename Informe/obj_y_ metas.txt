@@ -1,7 +1,0 @@
-Queremos disenhar una estructura que permita simular el sistema para cualquier combinacion de distri
-buciones. De esta manera, aquellos que intenten implementar sistemas similares en la vida real podra
-tomar decisiones de una manera informada y estudiar cual es la mejor manera de colocar los servidores
-para minimizar, ya sea el tiempo de espera en colas de los clientes, la cantidad de colas que estos
-hacen, o la longitud en promedio o maxima de las colas, o el tiempo de inactividad de los servidores.
-Es nuestra meta, lograr proveer una simulacion que se adapte bien para casos de la vida real con 
-caracteristicas similares a nuestra simulacion de serviores en serie. 
